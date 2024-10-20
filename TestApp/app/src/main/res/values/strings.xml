@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">App de Test</string>
+    <string name="comenzar_test">Comenzar Test</string>
+    <string name="pregunta_1">¿Cuál es la capital de Francia?</string>
+    <string name="pregunta_2">¿Cuánto es 5 x 3?</string>
+    <string name="pregunta_3">¿Cuál es el planeta más grande?</string>
+    <string name="opcion_1">París</string>
+    <string name="opcion_2">Londres</string>
+    <string name="opcion_3">Madrid</string>
+    <string name="opcion_4">15</string>
+    <string name="opcion_5">20</string>
+    <string name="opcion_6">25</string>
+    <string name="opcion_7">Júpiter</string>
+    <string name="opcion_8">Marte</string>
+    <string name="opcion_9">Tierra</string>
+    <string name="resultado">Tu resultado es:</string>
+    <string name="siguiente">Siguiente</string>
+</resources>
