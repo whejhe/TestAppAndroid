@@ -1,0 +1,299 @@
+1. ¿Qué es Android Studio?
+
+    A) Un framework de Java para desarrollo web
+    B) Un entorno de desarrollo integrado (IDE) para crear aplicaciones Android (*)
+    C) Una herramienta para diseño gráfico
+
+2. ¿En qué lenguaje se suele escribir la lógica de las aplicaciones Android?
+
+    A) C++
+    B) Java (*)
+    C) Python
+
+3. ¿Cuál es el archivo principal que contiene la interfaz gráfica de una aplicación en Android?
+
+    A) activity_main.xml (*)
+    B) strings.xml
+    C) AndroidManifest.xml
+
+4. ¿Cómo se llama la clase principal que representa la interfaz de una actividad?
+
+    A) MainClass
+    B) MainActivity (*)
+    C) AppActivity
+
+5. ¿Qué función se utiliza para mostrar un layout XML en una actividad?
+
+    A) onCreateView()
+    B) setContentView() (*)
+    C) inflateView()
+
+6. ¿Qué archivo contiene los permisos necesarios para la aplicación?
+
+    A) AndroidPermissions.xml
+    B) AndroidManifest.xml (*)
+    C) res/values/permissions.xml
+
+7. ¿Qué método del ciclo de vida de una actividad se llama justo antes de que la actividad sea visible para el usuario?
+
+    A) onStop()
+    B) onResume()
+    C) onStart() (*)
+
+8. ¿Qué es un Intent en Android?
+
+    A) Un objeto para realizar operaciones matemáticas
+    B) Un mecanismo para pasar datos entre actividades o servicios (*)
+    C) Un componente gráfico para mostrar imágenes
+
+9. ¿Cómo se define un botón en un archivo XML de Android?
+
+    A) <TextView>
+    B) <ImageView>
+    C) <Button> (*)
+
+10. ¿Qué clase se utiliza para mostrar mensajes cortos al usuario en Android?
+
+    A) AlertDialog
+    B) Toast (*)
+    C) Snackbar
+
+11. ¿Qué es una Activity en Android?
+
+    A) Un componente para gestionar la interfaz de usuario y la interacción con el usuario (*)
+    B) Un archivo de configuración
+    C) Un componente para manejar bases de datos
+
+12. ¿Cuál es el método que se ejecuta cuando se crea una actividad?
+
+    A) onStart()
+    B) onCreate() (*)
+    C) onDestroy()
+
+13. ¿Cuál de estos tipos de Layout organiza los elementos en una sola fila o columna?
+
+    A) RelativeLayout
+    B) LinearLayout (*)
+    C) FrameLayout
+
+14. ¿Cómo se accede a un recurso string en Java?
+
+    A) getResource().getColor(R.string.nombre)
+    B) getString(R.string.nombre) (*)
+    C) R.getString(nombre)
+
+15. ¿Qué hace la clase RecyclerView?
+
+    A) Muestra un conjunto de datos en una lista o rejilla (*)
+    B) Muestra imágenes en un carrusel
+    C) Realiza operaciones de base de datos
+
+16. ¿Qué es el archivo gradle.build?
+
+    A) Un archivo de configuración que gestiona las dependencias y versiones del proyecto (*)
+    B) Un archivo que almacena la interfaz gráfica
+    C) Un archivo que define las actividades del proyecto
+
+17. ¿Qué es una View en Android?
+
+    A) Un elemento de la interfaz de usuario (*)
+    B) Un tipo de base de datos
+    C) Una variable especial
+
+18. ¿Cómo se inicia una nueva actividad en Android?
+
+    A) startActivity(new Activity())
+    B) startActivity(new Intent(this, NuevaActividad.class)) (*)
+    C) onStartActivity(NuevaActividad.class)
+
+19. ¿Qué es el archivo AndroidManifest.xml?
+
+    A) Un archivo que define la estructura de la interfaz de usuario
+    B) Un archivo que contiene información sobre la aplicación, como actividades y permisos (*)
+    C) Un archivo que gestiona la memoria
+
+20. ¿Qué significa dp en Android?
+
+    A) Densidad de pantalla (*)
+    B) Doble pixel
+    C) Datos persistentes
+
+21. ¿Qué es una Fragment en Android?
+
+    A) Una subclase de Activity
+    B) Un componente reutilizable de la interfaz de usuario (*)
+    C) Un método para almacenar datos
+
+22. ¿Qué clase se utiliza para mostrar imágenes en Android?
+
+    A) TextView
+    B) ImageView (*)
+    C) PictureView
+
+23. ¿Qué método del ciclo de vida de una actividad se llama cuando la actividad está a punto de ser destruida?
+
+    A) onDestroy() (*)
+    B) onPause()
+    C) onStop()
+
+24. ¿Qué es ViewBinding?
+
+    A) Una forma de enlazar datos de una base de datos
+    B) Una forma de enlazar las vistas a código de manera más eficiente (*)
+    C) Un mecanismo de notificación
+
+25. ¿Cómo se llama al emulador integrado en Android Studio?
+
+    A) Android Emulator (*)
+    B) VirtualBox
+    C) Genymotion
+
+26. ¿Qué es el ConstraintLayout?
+
+    A) Un tipo de layout que permite posicionar las vistas de manera flexible mediante restricciones (*)
+    B) Un layout que organiza las vistas en filas y columnas
+    C) Un layout utilizado solo en tablets
+
+27. ¿Cómo se ejecuta una aplicación en un dispositivo físico desde Android Studio?
+
+    A) Pulsando "Shift + F5"
+    B) Seleccionando el dispositivo en el menú "Run" y haciendo clic en "Run" (*)
+    C) Iniciando el emulador
+
+28. ¿Qué componente se usa para capturar texto del usuario?
+
+    A) TextView
+    B) EditText (*)
+    C) Button
+
+29. ¿Qué es una Service en Android?
+
+    A) Un componente de la interfaz gráfica
+    B) Un componente para ejecutar tareas en segundo plano (*)
+    C) Un controlador de base de datos
+
+30. ¿Qué es el Logcat en Android Studio?
+
+    A) Una herramienta para ver los logs generados por la aplicación (*)
+    B) Una herramienta para modificar XML
+    C) Un archivo de configuración de logs
+
+31. ¿Cuál de los siguientes no es un método del ciclo de vida de una actividad?
+
+    A) onStart()
+    B) onClose() (*)
+    C) onResume()
+
+32. ¿Qué es una Snackbar?
+
+    A) Un componente que muestra notificaciones emergentes en la parte inferior de la pantalla (*)
+    B) Un componente para mostrar listas de datos
+    C) Un componente de imagen
+
+33. ¿Qué es el R en R.layout.activity_main?
+
+    A) Una clase generada automáticamente que contiene referencias a los recursos del proyecto (*)
+    B) Un objeto que representa una actividad
+    C) Una clase para gestionar errores
+
+34. ¿Qué hace la clase AsyncTask?
+
+    A) Ejecuta operaciones en el hilo principal
+    B) Ejecuta operaciones en segundo plano (*)
+    C) Administra la interfaz de usuario
+
+35. ¿Qué es SharedPreferences?
+
+    A) Un método para compartir archivos entre aplicaciones
+    B) Un mecanismo para almacenar datos persistentes en clave-valor (*)
+    C) Una clase para gestionar bases de datos
+
+36. ¿Qué método se utiliza para detener una actividad?
+
+    A) stopActivity()
+    B) finish() (*)
+    C) closeActivity()
+
+37. ¿Qué hace el siguiente código: Toast.makeText(this, "Mensaje", Toast.LENGTH_SHORT).show();?
+
+    A) Muestra una notificación en la barra de estado
+    B) Muestra un cuadro de diálogo
+    C) Muestra un mensaje corto en la pantalla (*)
+
+38. ¿Qué es un BroadcastReceiver?
+
+    A) Un componente para recibir y reaccionar a eventos del sistema (*)
+    B) Un componente gráfico
+    C) Un método de encriptación
+
+39. ¿Qué es un Adapter en Android?
+
+    A) Un componente que gestiona el almacenamiento de archivos
+    B) Un componente que vincula datos a vistas como ListView o RecyclerView (*)
+    C) Un componente que gestiona la interfaz de usuario
+
+40. ¿Qué es una Notification en Android?
+
+    A) Un componente para mostrar mensajes en la pantalla
+    B) Un mensaje que se muestra fuera de la aplicación, en la barra de estado (*)
+    C) Un mensaje corto en un cuadro de texto
+
+41. ¿Cómo se define un color en un archivo XML?
+
+    A) <color name="colorPrimary">#FF0000</color> (*)
+    B) <colorPrimary>#FF0000</colorPrimary>
+    C) <color>colorPrimary: #FF0000</color>
+
+42. ¿Qué clase se utiliza para crear una barra de progreso?
+
+    A) ProgressBar (*)
+    B) ProgressView
+    C) ProgressDialog
+
+43. ¿Cómo se conecta un dispositivo físico con Android Studio para realizar pruebas?
+
+    A) A través de ADB (Android Debug Bridge) (*)
+    B) Con FTP
+    C) Con SSH
+
+44. ¿Qué significa null en Java?
+
+    A) Un valor vacío o indefinido (*)
+    B) Un número negativo
+    C) Un dato no compatible
+
+45. ¿Qué es un Thread en Java?
+
+    A) Un proceso que realiza varias tareas al mismo tiempo (*)
+    B) Una variable global
+    C) Un controlador de excepciones
+
+46. ¿Qué es una NullPointerException en Java?
+
+    A) Un error que ocurre cuando se intenta usar una referencia a un objeto que es null (*)
+    B) Un error relacionado con bases de datos
+    C) Un error al compilar el código
+
+47. ¿Qué es ProGuard?
+
+    A) Una herramienta para ofuscar el código y reducir el tamaño del APK (*)
+    B) Un sistema de control de versiones
+    C) Un programa para gestionar permisos
+
+48. ¿Qué es Jetpack en Android?
+
+    A) Un conjunto de bibliotecas para facilitar el desarrollo de aplicaciones robustas (*)
+    B) Un lenguaje de programación
+    C) Un sistema operativo
+
+49. ¿Qué método se usa para aplicar una animación en una vista?
+
+    A) setAnimation() (*)
+    B) animateView()
+    C) onAnimate()
+
+50. ¿Cómo se lanza el emulador en Android Studio?
+
+    A) Desde la opción "Tools" > "AVD Manager" (*)
+    B) Desde el menú "Settings"
+    C) Presionando Ctrl + Alt + E
