@@ -22,7 +22,7 @@
     B) MainActivity (*)
     C) AppActivity
 
-5. ¿Qué función se utiliza para mostrar un layout XML en una actividad?
+5. ¿Qué función se utiliza para mostrar un layout XML en una activity?
 
     A) onCreateView()
     B) setContentView() (*)
@@ -34,7 +34,7 @@
     B) AndroidManifest.xml (*)
     C) res/values/permissions.xml
 
-7. ¿Qué método del ciclo de vida de una actividad se llama justo antes de que la actividad sea visible para el usuario?
+7. ¿Qué método del ciclo de vida de una activity se llama justo antes de que la activity sea visible para el usuario?
 
     A) onStop()
     B) onResume()
